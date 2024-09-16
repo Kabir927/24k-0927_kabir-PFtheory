@@ -1,1 +1,2 @@
-# 24k-0927_kabir-PFtheory
+# 24k-0927_kabir-
+this is my Programing funndamental asignment
